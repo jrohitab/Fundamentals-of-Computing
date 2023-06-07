@@ -10,7 +10,7 @@ int main() {
     printf("Is the customer staying on company business? (1 for yes, 0 for no): ");
     scanf("%d", &isBusinessCustomer);
 
-    printf("Is the customer over 60 years of age? (1 for yes, 0 for no): ");
+    printf("Is the customer over 60 years of age? (1 for yes, 0 for no): ");  
     scanf("%d", &isSeniorCitizen);
 
     if (numberOfPeople == 2) {
